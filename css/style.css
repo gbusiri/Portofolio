@@ -818,6 +818,7 @@ section.featured h2.slogan {
 .slider {
 	position: relative;	
 	margin-top:-20px;
+	margin-bottom: 30px;
 }
 
 .slider img {
@@ -1337,7 +1338,7 @@ About
   -o-transition: all 0.3s ease-out;
   transition: all 0.3s ease-out;
   background-color: rgba(91,223,48,0.25);
-  padding: 0 20px 20px;
+  padding: 20px 20px 20px;
   -webkit-border-radius: 0 0 5px 5px;
   -moz-border-radius: 0 0 5px 5px;
   border-radius: 0 0 5px 5px;
@@ -1399,7 +1400,7 @@ About
 
 .team-detail h4 span{
 	
-	margin-top: 5px;
+	margin-top: 20px;
 }
 .box-bg p{
 padding: 10px 20px;
@@ -1769,7 +1770,7 @@ a.scrollup:hover{
 	background-color:#33ccff;
 	
 }
-.social-network a.icoGoogle:hover {
+.social-network a.icoInstagram:hover {
 	background-color:#BD3518;
 	
 }
@@ -1782,7 +1783,7 @@ background-color:#007bb7;
 	
 }
 .social-network a.icoRss:hover i, .social-network a.icoFacebook:hover i, .social-network a.icoTwitter:hover i, 
-.social-network a.icoGoogle:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
+.social-network a.icoInstagram:hover i, .social-network a.icoVimeo:hover i, .social-network a.icoLinkedin:hover i {
 	color:#fff;
 }
 a.socialIcon:hover, .socialHoverClass {
